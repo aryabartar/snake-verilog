@@ -1,0 +1,18 @@
+NET "clock" LOC = P184;
+
+NET "reset" LOC = P185;
+
+
+NET "hsync" LOC = P191;
+NET "vsync" LOC = P194;
+
+NET "rgb[0]" LOC = P10;
+NET "rgb[1]" LOC = P2;
+NET "rgb[2]" LOC = P205;
+NET "rgb[3]" LOC = P204;
+NET "rgb[4]" LOC = P203;
+NET "rgb[5]" LOC = P200;
+NET "rgb[6]" LOC = P199;
+NET "rgb[7]" LOC = P198;
+NET "rgb[8]" LOC = P197;
+NET "rgb[9]" LOC = P196;
