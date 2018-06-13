@@ -10,6 +10,6 @@ Snake beginning size : 2 pixels
 Number of targets : 15 
 Number of barriers : 4 
 
-Block scales : 10 * 10 pixels 
+Block scale : 10 * 10 pixels 
 ```
 
