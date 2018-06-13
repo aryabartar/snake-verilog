@@ -6,7 +6,7 @@ The sreen also has 4 barriers that snake will handle them .
 
 
 ```
-Snake beginning size : 2 pixels 
+Snake beginning size : 2 blocks 
 Number of targets : 15 
 Number of barriers : 4 
 
