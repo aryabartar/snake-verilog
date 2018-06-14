@@ -6,6 +6,7 @@ The x-y axis is dynamic and changes according to snake head direction .
 Snake tries to eat the target in the best way and it can handle its body . 
 The sreen also has 4 barriers that snake will handle them . 
 
+[![Screen Capture](https://github.com/aryabartar/Snake-verilog/blob/master/photo_2018-06-14_19-28-55.jpg)]()
 
 ```
 Snake beginning size : 2 blocks 
