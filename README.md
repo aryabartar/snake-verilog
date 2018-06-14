@@ -17,9 +17,14 @@ Block scale : 10 * 10 pixels
 [![Screen Capture](https://github.com/aryabartar/Snake-verilog/blob/master/photo_2018-06-14_19-28-55.jpg)]()
 
 
+- **[Download snake game test video](https://github.com/aryabartar/Snake-verilog/blob/master/test-video.mp4)**
+
+
 # Team 
 ```
 > Arya Khaligh  [BartarArya@gmail.com] 
 > Hadi Hosseini [hadi.hosseini0171@gmail.com]
 ```
 > Under supervision Jamileh Behzadi [jamileh_behzadi@aut.ac.ir]
+
+
