@@ -18,6 +18,6 @@ Block scale : 10 * 10 pixels
 # Team 
 ```
 > Arya Khaligh  [BartarArya@gmail.com] 
-> Hadi Hosseini [hadi.hosseini0171@gmai1l.com]
+> Hadi Hosseini [hadi.hosseini0171@gmail.com]
 ```
 > Under supervision Jamileh Behzadi [jamileh_behzadi@aut.ac.ir]
