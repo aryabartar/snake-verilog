@@ -6,11 +6,6 @@ The x-y axis is dynamic and changes according to snake head direction .
 Snake tries to eat the target in the best way and it can handle its body . 
 The sreen also has 4 barriers that snake will handle them . 
 
-#Team 
-```
-> Arya Khaligh  (BartarArya@gmail.com) 
-> Hadi Hosseini <hadi.hosseini0171@gmail.com>
-```
 
 ```
 Snake beginning size : 2 blocks 
@@ -20,3 +15,9 @@ Number of barriers : 4
 Block scale : 10 * 10 pixels 
 ```
 
+# Team 
+```
+> Arya Khaligh  [BartarArya@gmail.com] 
+> Hadi Hosseini [hadi.hosseini0171@gmai1l.com]
+```
+> Under supervision Jamileh Behzadi [jamileh_behzadi@aut.ac.ir]
