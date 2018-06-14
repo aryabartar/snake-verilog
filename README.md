@@ -14,6 +14,7 @@ Number of barriers : 4
 Block scale : 10 * 10 pixels 
 ```
 
+# Sample picture and video 
 [![Screen Capture](https://github.com/aryabartar/Snake-verilog/blob/master/photo_2018-06-14_19-28-55.jpg)]()
 
 
